@@ -1,0 +1,16 @@
+.clipsummarize .description {
+  font-weight: bold;
+  color: green;
+}
+.clipsummarize td.swatch {
+  width: 20px;
+}
+.clipsummarize td {
+  padding: 4px;
+}
+.clipsummarize .acresColumn {
+  min-width: 100px;
+}
+.clipsummarize .totalRow {
+  font-weight: bolder;
+}
